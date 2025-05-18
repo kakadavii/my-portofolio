@@ -13,4 +13,5 @@
 📫 You can reach me at: [kakadavidarmawan@gmail.com](mailto:kakadavidarmawan@gmail.com)
 
 > "Belajar pelan-pelan, yang penting nggak berhenti. Programmer andal dulunya dari Hello World" – Dapi
+
 > "Konsisten! Selesaikan apa yang sudah dimulai"
