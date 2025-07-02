@@ -7,7 +7,7 @@
 - 🧠 Analyst System
 - 👷‍♂️ Project Manager
 
-🧑‍🔬 Personal Character
+🧑‍🔬 Personal Character:
 - 💡 Problem Solving, Algorithms, & Analytical Thinking
 
 🚀 Currently learning:
