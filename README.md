@@ -2,13 +2,18 @@
 
 🎓 I'm a Computer Science student with a big interest in:
 - 🔍 Python Programming
-- 🤖 Cloud Computing
-- Backend Developer
+- 🤖 Back-End Developer
+- 🧩 Modelling Information System
+- 🧠 Analyst System
+- 👷‍♂️ Project Manager
+
+🧑‍🔬 Personal Character
 - 💡 Problem Solving, Algorithms, & Analytical Thinking
 
 🚀 Currently learning:
 - Visual Programming
 - Computer Networking
+- Software Engineering
 
 📫 You can reach me at: [kakadavidarmawan@gmail.com](mailto:kakadavidarmawan@gmail.com)
 
