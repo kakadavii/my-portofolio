@@ -2,7 +2,7 @@
 
 🎓 I'm a Computer Science student with a big interest in:
 - 🔍 Python Programming
-- 🤖 Back-End Developer
+- 🤖 Software Engineer
 - 🧩 Modelling Information System
 - 🧠 Analyst System
 - 👷‍♂️ Project Manager
@@ -11,8 +11,7 @@
 - 💡 Problem Solving, Algorithms, & Analytical Thinking
 
 🚀 Currently learning:
-- Visual Programming
-- Computer Networking
+- Management Information System
 - Software Engineering
 
 📫 You can reach me at: [kakadavidarmawan@gmail.com](mailto:kakadavidarmawan@gmail.com)
